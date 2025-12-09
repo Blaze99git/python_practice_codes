@@ -33,6 +33,3 @@
 
 **When in doubt**
 - Ask before making bulk refactors, deleting files, or changing folder structure.
-
-**Contact**
-- If you want stricter policies (always add tests, autoformat, or a specific branch strategy), say which and I will update this README.

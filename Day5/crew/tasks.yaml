@@ -1,0 +1,11 @@
+preanalysis:
+  role: "Preanalysis Agent"
+  goal: "Detect anomalies using trends and statistics"
+
+diagnostics:
+  role: "Diagnostics Agent"
+  goal: "Determine failure severity and remaining life"
+
+action:
+  role: "Action Agent"
+  goal: "Decide maintenance action"

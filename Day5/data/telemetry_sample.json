@@ -1,0 +1,6 @@
+{
+  "asset_id": "DRYER_SAFE_P3",
+  "temperature": [65, 68, 71, 73, 75],
+  "vibration": [1.5, 1.8, 2.1, 2.5, 2.9],
+  "current": [8.2, 8.7, 9.1, 9.5, 9.9]
+}

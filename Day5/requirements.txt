@@ -1,0 +1,5 @@
+openai
+paho-mqtt
+numpy
+python-dotenv
+crewai
